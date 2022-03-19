@@ -28,7 +28,7 @@ realizar diversas acciones.
 
 Este API incluye manejo de errores, lo bueno de este API es que devuelve errores muy verbales, que permiten saber al usuario que está ocurriendo.
 
-## Elementos extra
+## ELEMENTOS EXTRA
 
 - Logging. Estado de la carga de datos. Permite saber si todo va bien. Utilizados en la recepción de datos de la API.
 - Actuator. Checkear el estado de la página, métricas, logs... Entrando en la URL localhost:8080/actuator se pueden observar todos los componentes habilitados de Actuator y acceder a los mismos. Se adjunta una imagen con la evidencia.
