@@ -29,5 +29,5 @@ realizar diversas acciones.
 Este API incluye manejo de errores, lo bueno de este API es que devuelve errores muy verbales, que permiten saber al usuario que está ocurriendo.
 
 ## Elementos extra
-- Logging
-- Actuator
+- Logging. Estado de la carga de datos.
+- Actuator. Checkear el estado de la página.
