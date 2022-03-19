@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.main.practica5.Practica5ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.284 s - in com.main.practica5.Practica5ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.894 s - in com.main.practica5.Practica5ApplicationTests
