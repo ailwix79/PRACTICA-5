@@ -26,6 +26,9 @@ realizar diversas acciones.
 - Descargar una captura de los datos.
 - Introducir fechas de búsqueda que no sean las actuales.
 
+
+NOTA: La selección de fechas puede tardar unos segundos.
+
 Este API incluye manejo de errores, lo bueno de este API es que devuelve errores muy verbales, que permiten saber al usuario que está ocurriendo.
 
 # ELEMENTOS EXTRA
